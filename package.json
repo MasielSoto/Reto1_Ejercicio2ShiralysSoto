@@ -1,0 +1,12 @@
+{
+  "name": "reto1-ejercicio2",
+  "version": "1.0.0",
+  "description": "TDD Fibonacci sequence",
+  "main": "src/Fibonacci.js",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
